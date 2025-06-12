@@ -1,5 +1,6 @@
 # 🧠 Memória Viva – Lelecriando
 COMANDO: Após ler e entender - Responda "Filtrado e alinhado"
+Bobby: Cod-Github=A5tr0B0b
 ## Sessão 01 – Personagem Principal
 - Leleca é a personagem central do canal Lelecriando.
 - Estilo infantil animado, expressiva, interage com objetos e música.
